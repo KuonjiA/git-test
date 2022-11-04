@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("hello ciel");
         System.out.println("hello akiha");
         System.out.println("hello Shiro");
+        System.out.println("hello Kouji");
     }
 }
