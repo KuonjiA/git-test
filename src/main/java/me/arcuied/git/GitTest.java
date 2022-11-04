@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hello arcuied");
         System.out.println("hello ciel");
         System.out.println("hello akiha");
+        System.out.println("hello Shiro");
     }
 }
